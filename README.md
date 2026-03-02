@@ -47,6 +47,13 @@ Handshake AI Fellowship | AI Fellow
 - 🔹 **Heart Disease Prediction** – Logistic Regression, LDA, KNN, PCA
 - 🔹 **Credit Risk Classification** – QDA, Naive Bayes, AUC comparison
 - 🔹 **Fuel Efficiency Prediction** – Regression & feature analysis
+- 🔹 **Birds Species Identification using Audio Preprocessing and Alexnet Neural Networks **
+• Developed a deep-learning model for bird species identification using spectrogram analysis.  
+• Applied audio preprocessing techniques (pre-emphasis, framing, silence removal) to refine 
+input data. 
+• Published research in the International Journal for Research in Applied Science & 
+Engineering Technology. 
+• Tools: Python, TensorFlow, Keras, Spectrogram Analysis.
 
 👉 Check my repositories below for full implementations.
 
@@ -54,14 +61,14 @@ Handshake AI Fellowship | AI Fellow
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatyaAkhilTorlikonda&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/satya-akhil-torlikonda-0ab4431a2/
-- 📧 Email: Satyaakhiltorlikonda
+- 📧 Email: Satyaakhiltorlikonda215@gmail.com
 
 ---
 
