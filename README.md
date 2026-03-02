@@ -47,7 +47,8 @@ Handshake AI Fellowship | AI Fellow
 - 🔹 **Heart Disease Prediction** – Logistic Regression, LDA, KNN, PCA
 - 🔹 **Credit Risk Classification** – QDA, Naive Bayes, AUC comparison
 - 🔹 **Fuel Efficiency Prediction** – Regression & feature analysis
-- 🔹 **Birds Species Identification using Audio Preprocessing and Alexnet Neural Networks **
+- 🔹 **Birds Species Identification using Audio Preprocessing and Alexnet Neural Networks**
+  
 • Developed a deep-learning model for bird species identification using spectrogram analysis.  
 • Applied audio preprocessing techniques (pre-emphasis, framing, silence removal) to refine 
 input data. 
