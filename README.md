@@ -1,4 +1,4 @@
-# SatyaAkhilTorlikonda
+# SatyaAkhilTorlikonda_Portfolio
 <h1 align="center">Hi 👋, I'm Satya Akhil Torlikonda</h1>
 <h3 align="center">Master’s Student in Data Science | Applied Statistics | Machine Learning</h3>
 
